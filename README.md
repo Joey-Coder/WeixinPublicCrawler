@@ -8,7 +8,8 @@
 
 ### 使用   
 1. 设置setting中的最大爬取页数MAX_PAGE。   
-2. 启动命令：```scrapy crawl sogou_weixin``
+2. 启动命令： 
+``` scrapy crawl sogou_weixin```
 3. 根据提示输入想爬取的关键字，例如：吉他     
 
 ### 其他
